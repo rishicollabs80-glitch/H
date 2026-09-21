@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Siulik's Dental Care",
+  "description": "Flagship dental studio & aesthetics boutique clinic featuring advanced painless dentistry, laser root canals, and cosmetic smile design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
